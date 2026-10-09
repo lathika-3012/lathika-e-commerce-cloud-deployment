@@ -1,0 +1,1201 @@
+text,label
+i purchased an item but i chose a wrong model I'd like to update my fucking order,change_order
+how can i find information about ru reimbursement policy,refund_policy
+when do the next sales start,sales_period
+"I didn't receive everything I purchased, I'd like to repot missing products",missing_item
+wanna submit fucking complaints about products where can i do it,submit_product_feedback
+i made a fucking order and i didnt receive an invoice can i downloiad it,request_invoice
+i need information abuot ur money back guarantee how can i get it,refund_policy
+"I got to check the purchase history, how do I do it?",order_history
+i do not need my profile help me closing it,close_account
+id luke to submit a fucking gdpr request could i get some help,request_right_to_rectification
+"I want to see the status of my refund, could I egt some help?",refund_status
+i ordered a product and i did not get an invoice help me getting it,request_invoice
+i received an fucking item in the wrong color can ya help me to report it,wrong_item
+"I do not understand you, could I talk tofucking somebody?",human_agent
+id like to exchange a fucking item i purcahsed how do i do it,exchange_product
+i got to add a fucking item to the basket will ya help me,add_product
+wanna track my replacement item how oculd i do it,track_order
+wanna find my package  how could i do it,track_delivery
+i have to track my fucking delivery i need assistancxe,track_delivery
+wanna see the availability of a fucking item in store were can i do it,availability_in_store
+how can i see the status of my replacement,track_order
+need to check the fucking item availability how to do it,availability
+id like to report a proble in a product i received how can i do it,product_issue
+wajna know about stores nearby how do i get more information,store_location
+id like to send fucking commemts about products how can i do it,submit_product_feedback
+"I want to track my shipment, where cpuld I do it?",track_delivery
+i got to subit a fucking idea for improving a product i need assistance,submit_product_idea
+"I'd liek to use your mobile app, can I get some help?",use_app
+wanna update my fucking personal data where to do it,request_right_to_rectification
+need to submit a fucking comment about ur brand will ya help me,submit_feedback
+"I'd like to see the status of my reimbursement, ohw can I do it?",refund_status
+"I'd like to know about a product, could you give me some information?",product_information
+"one of the items I bought was fucking crushed in shipping, would it be possible to report it?",damaged_delivery
+I need assistance canceling a product,cancel_order
+id  like to update my order before ya send it i need assistance,change_order
+i have a problem in my fucking account i need assistance editing it,change_account
+i have to remove a item from the cart can i get some help,remove_product
+"I have to see the fucking order history, where can I do it?",order_history
+I'd like to remove fucking products from the basket how do i do it,remove_product
+could you help me seeign the availability of a fucking product online?,availability_online
+"I want my order history, help me seeing it",order_history
+I would like to pay,pay
+i got to change my fucking account where can i do it,change_account
+I want asistance paying by debit card,payment_methods
+i need assistance talking to fucking client service,customer_service
+i have not received my package help me reporting delivery issues,delivery_issue
+I'd like information about the fucking spring sales how  could i find it,sales_period
+"fucking items in my delivery are wrong , help me reporting them",wrong_item
+i need assistance sending a fucking idea for a product,submit_product_idea
+"I would like to send feedback, I need help",submit_feedback
+I got to submit a comment about your brand,submit_feedback
+"my personal information is incorrect, can you rectify it?",request_right_to_rectification
+how can i buy through urwebsite,use_app
+would it be possible to see your fucking return policy ?,return_policy
+i have to get a reimbursement where to do it,request_refund
+id like to confirm the availability of a fucking product in store where to do it,availability_in_store
+wanna return a fucking item i bought onoine in store how to do it,return_product_in_store
+"my order package is broken,how can I report it?",damaged_delivery
+wanna register i need assistance,open_account
+I'd like to know about a fucking product where can i find more information,product_information
+i didnt receive everything i purchased i need assistance to report a fucking inocmplete shipment,missing_item
+i got to check the fucking status of my reimbursement help me,refund_status
+"I have a complaint, how could I send it?",submit_feedback
+shpw me the closest stores,store_location
+"I would like to check your retunr process, where to do it?",return_policy
+"I have to exchange an item I purchased online in store, help me",exchange_product_in_store
+my profile hasa been hacked how can i reset my fucking password,recover_password
+"I purchased a fucking item but I chose a wrong size, I want to modify my order",change_order
+I'd like to submit a fucking comment about ur company how do i do it,submit_feedback
+"I forgot my fucking password, help me to recover it",recover_password
+"I have to add fucking items to the cart, how do I do it?",add_product
+one of the products i bought wasfucking broken how can i report it,damaged_delivery
+"I got to open a  fucking account, could you help me?",open_account
+wanna close my account,close_account
+"I want to search for a store, where can I do it ?",store_location
+i received a product in the wrong color can uhelp me reporting it,wrong_item
+"I didn't receive all the items I bought , I need help to report missing items",missing_item
+i have to submit fucking feedbck can i get some help,submit_feedback
+my debit card was declined could uhelp me report fucking payment problems,payment_issue
+"I would like to use your app, where do I do it?",use_app
+can you tell me about your payment methods?,payment_methods
+"I need to send an email to fucking customer service, help me",customer_service
+i did not receive all the products i bought i need help reporting a fucking incomplete shipment,missing_item
+will ugive me information about a fucking product ni store,return_product_in_store
+"I ordered a fucking product and I did not get a invoice, I need assistance requesting it",request_invoice
+id like to know more about products can ugive me some information,product_information
+i have to seeitem availability help me,availability
+I'd like to review my fucking order history how to do it,order_history
+could you help me to report a fucking problem with the mobile app?,technical_issue
+submit fucking complaints about products,submit_product_feedback
+need to see ru fucking return process,return_policy
+is it opssible to return a fucking product at the shop,return_policy
+i want my fucking order history can uhelp me reviewing it,order_history
+i have to track my fucking refund where do i do it,refund_status
+"I have to see your money back policy, I need assistance",refund_policy
+i dont want my fucking account i need  assistance to delete it,close_account
+wanna talk to a human can ya help me,human_agent
+how could i add a fucking product to the cart,add_product
+"I want to rectify my fucking private data, where do I do it?",request_right_to_rectification
+I need help seeing the fucking shipping cst,shipping_costs
+"I got to add fucking products to the basket, can you help me ?",add_product
+I'd like to exchange a fucking product in store where to do it,exchange_product_in_store
+I'm looking for information about the fucking cost of delivery,shipping_costs
+I'd like to check the availability of items online where to do it,availability_online
+a fucking delivered product is incorrect report it,wrong_item
+I want assistance submitting fucking product complaints,submit_product_feedback
+I'd like to use your aop,use_app
+"I want to know about the delivery date of my purchase, how do I find more information?",delivery_time
+wanna chefk the availability of an item can ya help me,availability
+someone stole my profile could uhelp merecover my fucking password,recover_password
+need to talk to customer support could ya helpme,customer_service
+i want assistance to rectify my private data,request_right_to_rectification
+I'd like to use ur mobile app how can i do it,use_app
+"I have to confirm the availlability of fucking products online, where do I do it?",availability_online
+I want assistnace to find stores nearby,store_location
+wanna know more about the fucking clearance sales could ya find some information,sales_period
+"Idon't need my fucking account, will you help me cancel it?",close_account
+i purchased a fucking product but i chose a wrong color is it possible to modify my online order,change_order
+I want assistance tracking my fucking replacement,track_order
+"I got to submit a fucking complaint about a producr, can you help me?",submit_product_feedback
+can uhelp me making a fucking payment,pay
+help me rectifying my fucking personal data,request_right_to_rectification
+how can i see the availability of a item,availability
+"I have to see your reimbursement policy, where could I do it?",refund_policy
+"I am looking for my order history, will you help me?",order_history
+"I want to know about the status of my refund, how could I get more informatoin?",refund_status
+I want asisstance checking where my fucking package is,track_delivery
+wanna use ur fucking app where could i do it,use_app
+I'd like to chcek ur fucking shop opening hours where could i do it,store_opening_hours
+I'd like to submit an idea for an product where could i do it,submit_product_idea
+"I would like to check your refund process, help me",refund_policy
+I need to confirm the availability of fucking items online,availability_online
+"I dn't want my fucking user account, I need help to close it",close_account
+is it possible to return some fucking products tjat were on sale?,return_policy
+i have feedback about ur company could ya help me submit it,submit_feedback
+"I want to return a product online, how could I do it?",return_product_online
+where can I report a fucking wrong item?,wrong_item
+"my delivery was not on time, help mereporting fucking delivery issues",delivery_issue
+i have to see the availability of producst online could i get some help,availability_online
+i got to check where my delivery is hoq can i do it,track_delivery
+"I cannot pay, notify of payment problems",payment_issue
+I want to know more about fucking prodicts,product_information
+"I bought an item but I chose a wrong size , I want to update my fucking online order",change_order
+can ya help me modifying my user account,change_account
+i have to ezchange the fucking items i purchased how could i do it,exchange_product
+i got toi send an email to fucking customer support will ya help me,customer_service
+I'm looking for informarion about the fucking status of my reimbursement can uhelp me,refund_status
+"I want to return fucking orders online, I need help",return_product_online
+see where my shipment is,track_order
+need to modify my fucking user account how could i do it,change_account
+I got to make payments,pay
+wanna return orders online how could i do it,return_product_online
+"I am looking for a fucking reimbursement, I need help to find it",request_refund
+i got to make payments how do i do it,pay
+I'd like to open a fucking account i  need help,open_account
+"I want a fucking refudn, could I request it?",request_refund
+I want assistance submitting a fucking suggestion,submit_product_idea
+will you show me the cost of mailing ?,shipping_costs
+"I am looking for information about fucking products, where can I get it?",product_information
+i got to contact fucking customer service how do i do it,customer_service
+"I need information about your money back policy, how could I find it ?",refund_policy
+how can I return a fucking product I purchased online in store?,return_product_in_store
+"I have to see ypur return process, where do I do it?",return_policy
+"I have to submit product complaints, I nee assistance",submit_product_feedback
+I need help to return an item I bought online in store,return_product_in_store
+"I would like to know about your return process, where can I get more information?",return_policy
+"I would like to return an item, help me",return_product
+I need to report products,damaged_delivery
+could ya help me check ur reimbursement poicy,refund_policy
+"I need to cancel my profile, where could I do it?",close_account
+"I purchased a fucking item and I did not get an invoce, could you help me get it?",request_invoice
+"I need to close my fucking user account, how to do it?",close_account
+"I have to rectify my private information, help me",request_right_to_rectification
+"Iwould like to track my reimbursement, where could I do it?",refund_status
+id like to remove as product from the cart i need help,remove_product
+the website doesnt work on my pc is it possible to report a fucking errr,technical_issue
+"I need to see the fuckinh item availability, how to do it?",availability
+I'm looking for information about the fuckingwinter sales i need assistance,sales_period
+I'd like to return a product i purchased online in store how can i do it,return_product_in_store
+how do I check your fucking money back guarantee?,refund_policy
+"I bought an item but I chose a wrong size, how can I change my fucking online order?",change_order
+some products i ordered are wrong i need assistance to report them,wrong_item
+I'd like to exchange a fucking order i bought can i get some help,exchange_product
+"I have to exchange a fucking item in store, I need help",exchange_product_in_store
+"I got to cancel a product, can I get soem help?",cancel_order
+i bought a fucking item but i do not want it can i cancel the fuckong order,cancel_order
+"I need a fucking user account, how can I create it?",open_account
+i didnt receive my delivery i need assistance reporting fucking delivery problems,delivery_issue
+i need information about a fucking product,product_information
+I'd like to check ur payment options i needhelp,payment_methods
+id like to know more about ur fucking return process,return_policy
+ned to report a fucking technical issue with the app could uhelp me,technical_issue
+"I am loking for information about the status of my exchange, where could I find it?",track_order
+I have to submit fucking feedback,submit_feedback
+wanna cancel an online order how could i do it,cancel_order
+where to make transfers ?,pay
+i have to see the fucking availability of an item where to do it,availability
+where  to exchange some fucking products i bought,exchange_product
+id like information about a fucking product how cn i find it,product_information
+could you help me check  the fucking delivery time?,delivery_time
+"I'd like to get a refund, were can I do it?",request_refund
+I'm looking for a refund could uhelp me finding it,request_refund
+"I want to solve payment issues,how can I do it?",payment_issue
+i got to exchange a fucking product i  bought online in store how can i do it,exchange_product_in_store
+I want help to modify my fucking account,change_account
+"I need to  check the shipping cost, how could I do it?",shipping_costs
+"I need to track my online order, where could I do it?",track_order
+"I need to see where my fucking shipment is, where to do it?",track_delivery
+"I ordered a fucking item and I didn't receive an invoice, how do I download it?",request_invoice
+"my fucking delivery is wrong, would it be possible to report it?",wrong_item
+need to cancel my user account how to do it,close_account
+"I need to add a fucking tiem to the basket, where could I do it?",add_product
+could you help me to remove a product from the cart?,remove_product
+"my shipment package is crushed, how do I report it?",damaged_delivery
+id like to complete my private information i need assistanec,request_right_to_rectification
+"the product I received is incorrect, I nede help to report it",wrong_item
+i need a fucking reimbursement can ya get it,request_refund
+"I got to send a fucking product improvement idea, where to do it ?",submit_product_idea
+I'd like to know more about ur payment methods wil ugive me some information,payment_methods
+i got to send a comment about ur company,submit_feedback
+"I want to submit product complaints, I need help",submit_product_feedback
+"I want to find my package, how could I do it?",track_delivery
+how could I speak with fucking client service?,customer_service
+"I have to find fucking stores close to me, where to do it?",store_location
+"I'd like to check the fucking delivery cost, could I get some help?",shipping_costs
+wanna use ut app how do i do it,use_app
+"Ineed to use your app, can I get some help?",use_app
+"my user has been stolen, I want help recovering my password",recover_password
+I'm looking for information about the fucking next sales,sales_period
+"I have to return a fucking item I purchased online in store, where can I  do it?",return_product_in_store
+"I need to returnm orders online, where could I do it?",return_product_online
+i have to see the status of my reimbursement will uhelp me,refund_status
+"I bought an item but I chose a wrong size , I got to modify my online order",change_order
+"the website does not work on my computer , I want assistance to report the fucking error",technical_issue
+I'd like to check ur shop opening hours can i get some help,store_opening_hours
+the mobile app doesnt worek on my computer how do i report the problem,technical_issue
+i have to submit a product idea where do i do it,submit_product_idea
+im looking for a refund can uhelp me findiung it,request_refund
+I'd likme to check ur fucking payment methods how to do it,payment_methods
+i need assistance to see the availability of a fucking item in store,availability_in_store
+how could i get a refund,request_refund
+i want information aboutthe spring sales how could i find it,sales_period
+wanna exchange the fucking orders i purchased how do i do it,exchange_product
+how could i download ur app,use_app
+how can I find information about the delivery date of my order?,delivery_time
+i got to exchange an item in store will yta help me,exchange_product_in_store
+I'm looking for information about fucking products where could i get it,product_information
+i need help to check item availability,availability
+can uhelp me returning items online,return_product_online
+"my package has been lost, I want assistance reporting a fucking delievry problem",delivery_issue
+I'd like to exchange the fucking items where do i do it,exchange_product
+"I have a fuckin complaint about your company, can you help me send it?",submit_feedback
+could you help me submitting ideas?,submit_product_idea
+"I got to sendback an item, I need assistance",return_product
+i get an error when i try to pay could uhelp me report it,payment_issue
+"I need to add fucking items to the cart, how can I do it ?",add_product
+need to check the availability of fucking products online how could i do it,availability_online
+could i repoft a damaged item,damaged_delivery
+i got to see the availability of an item online hel me,availability_online
+id like to send fucking comments about products i need assistancw,submit_product_feedback
+some fucking products in my package are wrnog id like to report them,wrong_item
+"I am looking for information about the fucking shiping cost, I need help",shipping_costs
+wanna know more about the nearest stores can ya give me some information,store_location
+i have to see the availability of a fucking product online help me,availability_online
+i have to check the availability of items in store how can i do it,availability_in_store
+"I got to check the delievry time, I need assistance",delivery_time
+"I'm lookong for information about your money back policy, how could I find it?",refund_policy
+I'd like to know more about ur return policy find some information,return_policy
+I'd like to know moreabout the shipping cost will ya find some information,shipping_costs
+"I need a ufcking account, can you help me to open it?",open_account
+fucking items are incorrect i need assistance to report  them,wrong_item
+I'd like to know about ur refund policy where do i find more information,refund_policy
+need to check the fucking status of my replacement where can i do it,track_order
+i want assistance checking ur fucking refund process,refund_policy
+"I'd like to submit a fucking  review, I need assistance",submit_product_feedback
+"I'm looking for information about a product , where could I find it?",product_information
+i need a fucking remibursement how do i get it,request_refund
+i got to remove products from the basket will ya help me,remove_product
+I'd like to see the shipping ocsts,shipping_costs
+id like to check the availability of a item where could i do it,availability
+where to send an item back,return_product
+"I want to return a productI bought online in store, how do I do it?",return_product_in_store
+confirm the availability of products online,availability_online
+I'd like to make a change to my fucking profile where to do it,change_account
+"someone  hacked my account, recover my fucking password",recover_password
+the payment failed could i report a fucking paymet problem,payment_issue
+i need a user account could uhelp me create ti,open_account
+im looking for niformation about ur store opening hours can uhelp me,store_opening_hours
+i didnt gey a payment confirmation could i report fucking payment problems,payment_issue
+would ugive me information about a product,product_information
+i got to find my fucking shipmentcan uhelp me,track_delivery
+"I have to remove a product from the basket, could you help mme?",remove_product
+"some items I got was damaged, I need assistance to report them",damaged_delivery
+wanna cancel a fucking onlinme order help me,cancel_order
+"I'd like to treack my package, could you help me?",track_delivery
+where could I confirm the availability of a fucking item online?,availability_online
+I'd loike information about the fucking sales,sales_period
+"I got to see the delivery time of my order, how do I do it?",delivery_time
+"one of the packages in my delivery is fucking crushed, can I report it?",damaged_delivery
+i have not received my shipment could ya help me to report fucking delivery problems,delivery_issue
+I want assistance adding a product to the cart,add_product
+I'd like to know about the fucking status of my replacement give me some information,track_order
+one of the productsi bought was broken id like to report it,damaged_delivery
+wannatrack my fucking refund,refund_status
+"I need information about the fucking status of my refund, where can I get it?",refund_status
+the fucking products i received are wrong how could i rport them,wrong_item
+i have to return a fucking item online could i get some help,return_product_online
+"I would like to remove a product from the cart, could I get some help?",remove_product
+"I purchased an item, but I want to return, could I get some help?",return_product
+"I'd like to esarch for stores in my area, help me",store_location
+I'd like to know about the fucking status of my replacement item,track_order
+"I didn't receive everything I purchased, where do I report an incomplete package?",missing_item
+can you hel me to change my fucking profile?,change_account
+"I have to return a fucking product I purchased online in store, how to do it?",return_product_in_store
+how could i find information about ur fucking money back guarantee,refund_policy
+"I want a fucking refund, could you help me to get it ?",request_refund
+i have to remove fucking products from thebasket could ya help me,remove_product
+need to submit product comments how can i do it,submit_product_feedback
+the  product i got is wrong how do i report it,wrong_item
+id like to submit fucking product feedback,submit_product_feedback
+need to check the purchase  history how to do it,order_history
+"one of the products I got was crushed, I need help to report it",damaged_delivery
+need to talk to someone how do i do it,human_agent
+some products in my delivery are fucking crushed could i report them,damaged_delivery
+i purchased a fucking product but i do not want it how could i cancel  the order,cancel_order
+I'd like to open a user account where could i do it,open_account
+i got to check the fucking order history could i get some help,order_history
+my package wa lost where to report a delivery issue,delivery_issue
+i need my order history will ya help me see it,order_history
+"I want an account, how could I open it?",open_account
+"I would like to track my refund, how could I do ti?",refund_status
+would it be possibel to close my account,close_account
+I'd like to cancel my user account could uihelp me,close_account
+I'd like to find fucking stores close to me where do i do it,store_location
+"I have to report an error with an product I purchased, I need help",product_issue
+"a shipped item is broken, will you help me report it?",damaged_delivery
+i didnt receive everything i boughjt i got to report a fucking incomplete delivery,missing_item
+i need assistance seeing ur fucking return process,return_policy
+i cant make a transfer help me to report a payment problem,payment_issue
+"my profile has been hacked , how could I reset my password?",recover_password
+wanna submit a gdpr request can i get some help,request_right_to_rectification
+"I need to see the fucking delivery time of my purchase, how do I do it?",delivery_time
+"I would like to change mny profile, how can I do it?",change_account
+how to return a fucking item I purchased online in store?,return_product_in_store
+the app doesnt work on my mobile phone could ya help em report the problem,technical_issue
+could ya help me seeing the status of my exchange,track_order
+I'd like to make fucking transfres,pay
+where can I see the fucking order history?,order_history
+I have a fucking complait about your brand,submit_feedback
+i have to see the costs of delivery where do i doo it,shipping_costs
+I'm looking for information about the fucking spring sales how could i get it,sales_period
+"I'd like to return a fucking item I purchased online in store, where could I do it?",return_product_in_store
+"I want to send back an item, will you help me?",return_product
+can you help me exchange  what I purchased?,exchange_product
+"one of the products I received was fucking damaged, will you help me reporting it?",damaged_delivery
+"I ordered a ufcking product and I didn't get a bill, I need assistance to get it",request_invoice
+i need assistance sooving payment problems,payment_issue
+i purchased a fucking product but i dont want it how to cancel the order,cancel_order
+"I have a fucking idea to make your product better, can you submit it?",submit_product_idea
+need to exchange a fucking item i boughtonline in store could uhelp me,exchange_product_in_store
+i have to report fucking product issues could  i get some help,product_issue
+"I have to return a fucking item online , where to do it?",return_product_online
+"I have to check the availability of an item , I need help",availability
+"I'd like to pay with a card, could you help me?",payment_methods
+"I am looking for informatipn about products, will you help me?",product_information
+id like to create a user account could uhelp me,open_account
+"someone stole my user , could you help me resetting my fucking password?",recover_password
+"I would like to know more about a fucking product, could you find some information?",product_information
+can you help me see the availability of fucking products in store?,availability_in_store
+information aboutr the fucking costs of shipping,shipping_costs
+"I purchased a product but I chose a wrong model, I got to update my online order",change_order
+"I want a reimbursement, I'd like to get  it",request_refund
+"I did not get a payment validation, how could I notify of a payment issue?",payment_issue
+I'd like to recover my fucking password how can i do ti,recover_password
+would it be possible to request arefund,request_refund
+"someone hacked my user, hos could I reset my fucking password?",recover_password
+i have to exchage some products,exchange_product
+i got to submit fucking  ideas could i get some help,submit_product_idea
+idlike to report defective products how can i do it,product_issue
+"I have to return an item online, could I get some help?",return_product_online
+need to report products where to ddo it,wrong_item
+"I need to return an order online, how to do it?",return_product_online
+"I would like to see the delivery time of my order, could I get some help?",delivery_time
+I'd like to exchange a fucking product in store where can i do it,exchange_product_in_store
+"I need my fucking ordr history, can you help me checking it?",order_history
+I'd like to call customer support how can i do it,customer_service
+my prviate information is inaccurate i need help to modify it,request_right_to_rectification
+need to look for something i purchased check my fucking purchase history,order_history
+I want help to get a refund,request_refund
+"I got to talk to fucking customer service , I need help",customer_service
+"I am looking for information about fucking products, can you help me?",product_information
+"I purchased a product and I did not receive an invoice, I need help getting it",request_invoice
+i have to exchange a product in store,exchange_product_in_store
+I need help to find my fucking package,track_delivery
+i have to check the availability of a fucming product in store how to do it,availability_in_store
+"I got to send a compalint about your brand, how can I do it?",submit_feedback
+I would like to nkow more about fucking products,product_information
+id like to see the availability of items in store could ya help me,availability_in_store
+wanna make fucking transfers,pay
+idont need my fucking profile could udelete it,close_account
+"I want to speak with fucking customer support, were do I do it?",customer_service
+where to send an fucking order back?,return_product
+"I got to remove a product fom the cart, help me",remove_product
+"I need a fucking refund , how can I get it?",request_refund
+"I would like information about the winter sales, how  can I get it?",sales_period
+"I would like to add items to the basket, where can I do it?",add_product
+"I ordered a product and I didn't get an invoice, could you help me to download it?",request_invoice
+"I need to exchange some products I bought, how do I do it?",exchange_product
+"I have to make a fucking pamyent, how to do it?",pay
+my delivery was losthow do i report a delivery issue,delivery_issue
+i have a comment colud i submit it,submit_feedback
+how do i confirm the availaiblity of a product in store,availability_in_store
+"I would like to know about your fucking store opening hours, how do I get more informaion?",store_opening_hours
+I'd like to use ur app how to do it,use_app
+"I have a error in my fucking account, change it",change_account
+help me to send an item back,return_product
+I'd like information about the fucking winter sales where can i find it,sales_period
+"I want to make a fucking payment, how to od it?",pay
+igot to rectify my fucking personal data help me,request_right_to_rectification
+need to submit a fucking suggestion for a product where could ido it,submit_product_idea
+some products i received was crusxhed can ya help me to report them,damaged_delivery
+im looking for information about a fucking product in store,return_product_in_store
+i bought a prodjct but i dont want it would it be possible to cancel the fucking order,cancel_order
+im looking for my fucking order history i need help finding it,order_history
+one of the prodycts i received is wrong id like to report it,wrong_item
+apy,pay
+a product i ordered does not work properly how can i report a product issue,product_issue
+"I lost ym password, how can I reset it?",recover_password
+how to report a fucking defect in a product i bought,product_issue
+help me to pay,pay
+id like to know about the  fucking delivery date how could i get more information,delivery_time
+"I need to use your app, how do I do it?",use_app
+i have a problem with my delivery i need help reporting it,delivery_issue
+id like to pay with a fucing card where to do it,payment_methods
+help me send a  fucking review,submit_product_feedback
+"I got to make pamyents, how to do it?",pay
+id like to report payment problems where can i do it,payment_issue
+i do not uinderstand ui need assistance talking to a person,human_agent
+"I have to see the availability of a item, I need help",availability
+id like tl exchange a product where could i do it,exchange_product
+id like to report an issue witha product i ordered help me,product_issue
+what are the specs for the product?,product_information
+i have to pay with a deit card will ya help me,payment_methods
+"I'm looking for information about your payment options, I need help",payment_methods
+I'd like to return fucking items online will ya help me,return_product_online
+"my package was sent to the wrong address, how can I report a fucknig delivery problem?",delivery_issue
+i have to create a fucking user account could i get some help,open_account
+some items in my delivery are crushed could ya help me to report them,damaged_delivery
+help me check the fucking order history,order_history
+wanna see the availability of a product online where could i do it,availability_online
+"I have to see the availability of fucking products onmline, where to do it?",availability_online
+"I have an error in my profile, is it possible to udate it?",change_account
+"I have to  return fucking products online, help me",return_product_online
+the app doesnt work on my pc i wanmt help reporting the fucking problem,technical_issue
+wanna check where my delivery is how could i do it,track_delivery
+"I need to report an error in a product I received, will you help me?",product_issue
+"I'd like to make a fucking payment, could you help me?",pay
+id like to track my online oirder how can i do it,track_order
+"I would like to modify my fucking profile, could you help me?",change_account
+"I have a problem in my account, can you help me editing it?",change_account
+i need assistance to report an incorrect item,wrong_item
+someone hacked my password is it possibvle to recover it,recover_password
+could ya showme where my delivery is,track_delivery
+i need help seeing ur payment options,payment_methods
+i cant make transfers is itpossible to notify of payment issues,payment_issue
+my account has been hacked could uhelp me to recover my fucking password,recover_password
+my profile has been hacked i got to recover my fucking password,recover_password
+can you help me see your shopping hours?,store_opening_hours
+"I want my purchase history, will you help m to see it?",order_history
+i got to review my order history how do i do it,order_history
+"I purchased a fucking product but I chose a wrong size, how coul I update my fucking online order?",change_order
+"a fucking product isn't delivered, help me repoort it",missing_item
+I'd liketo check the status of my replacement product how to do it,track_order
+"I would like to check your fucking payment options, wher do I do it?",payment_methods
+"I have to delete my user  account, how could I do it?",close_account
+"I bought an item but I chose a wrong color, I'd like to update my fucking order",change_order
+i need informtaion about the sales where could i find it,sales_period
+wanna return a product onlie can uhelp me,return_product_online
+"I got to send fucking suggestions for making a product better, how could I do it?",submit_product_idea
+i get an error when i try to check out can ya help me notify of it,payment_issue
+i got tp check the availability of an item how do i do it,availability
+I want assistance to confirm the avaipability of a fucking product in store,availability_in_store
+I need informatiopn about the status of my reimbursement,refund_status
+need to exchanmge a fucking item in store could ya help me,exchange_product_in_store
+"I would like information about a prolduct, where could I find it?",product_information
+would it be possible to see the fucking item availability,availability
+how can I search for stores nearby?,store_location
+"I am looking for information about a fucking product in store, how could I get it?",return_product_in_store
+I'd like to return ufcking items online can i get some help,return_product_online
+"the mobile app doesn't work on my device, I'd like to report a fudking issue",technical_issue
+howw do i cancel an order,cancel_order
+"I have a fucking product comment, how can I send it?",submit_product_feedback
+i want information about the fucking sales how could i get it,sales_period
+i need assistance to make a fucking transfer,pay
+i erceived a fucking product in the wrong color i need assistance reporting it,wrong_item
+is it possible to submit a fucking complaint about your brand?,submit_feedback
+"I have to check the status of my exchange, how can I do it?",track_order
+"I need to add a item to the basket, could I get some help?",add_product
+i got to report an missing product,missing_item
+"my account has been stolen, I want assistance to recover my fucking password",recover_password
+how could i return a product i purchased online in store,return_product_in_store
+"I would like to report adelivery problem, can you help me?",delivery_issue
+"I'd like to cancel a fucking online order, will you help me?",cancel_order
+"my package is incomplete, how could I report an incomplete package ?",missing_item
+I would like to know about your refund process,refund_policy
+"I am looking for information about fucking products, will  you help me?",product_information
+"I don't understand you, help me to speak with somebody",human_agent
+"one of the fucking products in my package is incorrect, I need assistance to report it",wrong_item
+I'd like to talk to someone wheredo i do it,human_agent
+i bought a fucking item but i chose a wrong color I'd like to change my fucking online order,change_order
+I'd like to see the status of my replacement can i get some help,track_order
+i bought a fucking item but i chose a wrong model i wanna update my online order,change_order
+i dont understand ay can ya help me talking to a person,human_agent
+i need my purchase history i wanna check it,order_history
+wanna use ur fucking mobile app will uhelp me,use_app
+"I would like to check item availabiloity, will you help me?",availability
+"I purchased a product and I didn't receive a bill, can you help me getting it?",request_invoice
+"I want to use your mobile app, could you help me?",use_app
+one of the itemsin my package is damaged can ya help me report it,damaged_delivery
+"I need to request the fucking right to be forgotten, where to do it ?",request_right_to_rectification
+how could I find information about the next sales?,sales_period
+I would like to know more about your fucking money back guarantee,refund_policy
+wanna cancel a fucking item how could i do ig,cancel_order
+could ya help me exchange a product i bought online in store,exchange_product_in_store
+i got to report a fucking delivery issue with my shipment could  i get some help,delivery_issue
+"I would like to check your fucking return policy, can you help me?",return_policy
+I'd like to exchange a fucking product in storewhere can i do it,exchange_product_in_store
+"my fucking password has been hacked , I'd like to reset it",recover_password
+I have to submit a prduct improvement idea,submit_product_idea
+i ordered a product and i didnt receive a bill get it,request_invoice
+wanna find my fucking delivery how could i do it,track_delivery
+wanna send back a fucking item how can i do it,return_product
+wanna make a change to my fucking profile will uhelp me,change_account
+"I'd like to report issues in a product I bought, where can I do it?",product_issue
+how could I track my reimbursement?,refund_status
+can ya help me sending a product review,submit_product_feedback
+"I don't understand you, I ned to speak with a fucking operator",human_agent
+"I want to track my fucking reimbursement, I need assistance",refund_status
+"I need to make payments, help me",pay
+wanna edit my fuckking account can i get some help,change_account
+I neeed to update my private information,request_right_to_rectification
+"I wnt to check item availability, how can I do it?",availability
+need to use ur fucking mobile app how to do it,use_app
+"I need to cancel an order, how could I do it?",cancel_order
+id likd information about the closest stores where can i get it,store_location
+im loking for information about ur fucking refund process can i get some help,refund_policy
+"I want to open a fucking user account , how to do it?",open_account
+wanna request the right to rectification whereto do it,request_right_to_rectification
+i dont remember my ufcking password reset it,recover_password
+"I have to treack my package, can I get some help?",track_delivery
+need to solve payment issues where could i do it,payment_issue
+"I want to submit fucking feedback for a product, will yu help me?",submit_product_feedback
+"I need to exchangean item in store, can I get some help?",exchange_product_in_store
+help me to see the fucknig availability of an item,availability
+"I got to check the delivery date of my order, were to do it?",delivery_time
+I'd like to return a product i bought online in storewill uhelp me,return_product_in_store
+i dont remember my fucking password can uhelp me resetting it,recover_password
+"I would like to remove a product from the cart, where to do it?",remove_product
+could ya tell me about the fucking status of my reimbursement,refund_status
+wanna modify my order before  ya send it where could i do it,change_order
+wanna talk to fucking customer serrvice could i get some help,customer_service
+need to return a order online where can i do it,return_product_online
+how to see the pjrchase history?,order_history
+"the website does not work on my phone, I need help to report a fucking error",technical_issue
+i got to see the availability of fucking products online where can i do it,availability_online
+"I can't get the app to work on my computer , would it be possible to report an error?",technical_issue
+i have not received my shipment help me reporting delivery prbolems,delivery_issue
+"I would like to reportissues in a product I bought, can you help me?",product_issue
+"I watn to check the delivery date of my purchase, where can I do it?",delivery_time
+"I would like to track my fucking refund, where can I do it?",refund_status
+im looking for information about the sttaus of my reimbursement how could i get it,refund_status
+wanna register how to do it,open_account
+"I have to make fucking transfers , will you help me?",pay
+need to return an order what can i doo,return_product
+can you help me confirm the availability of fucking items online ?,availability_online
+I'd like to see the availability of fucking products in store where can i do it,availability_in_store
+"I need information about the fucking sales, how could I find it?",sales_period
+"I got to return fucking prodcuts online, will you help me?",return_product_online
+"I got to exchange the products I bought, could I get some help?",exchange_product
+"I want to send an review, will you help me?",submit_product_feedback
+"I got to report fucking delivery problems with my order, were to do it?",delivery_issue
+i requested a exchange but i have not received it i need to track the fucking status of my replacement product,track_order
+"I need to check where my package is, can I get some ehlp?",track_delivery
+i got to find my delivery were could i do it,track_delivery
+need to add an item to the cart where do i do it,add_product
+"I can't make a payment, I ned help notifying of a payment problem",payment_issue
+wanna return an item i bought online in store how to do it,return_product_in_store
+"I ordered a product and I did not receive a bill, is it possible to downloda it?",request_invoice
+wanna send a complaint about ur brand can i get sme help,submit_feedback
+i got to search for fucking stores close to me where can i do it,store_location
+i want help to find my fucking packasge,track_delivery
+the app does not work on my phone i have to report the fucking issue,technical_issue
+my fucking passwors has been hacked could ya help me to recover it,recover_password
+id like to check the vaailability of an item online can uhelp me,availability_online
+"I have to see the fucking status of my reimbursement, could I get some help ?",refund_status
+can ya help me find my fucking online order,track_order
+can oyu help me report fucking issues with a product?,product_issue
+I'd like to call fucking ucstomer service how to do it,customer_service
+"I want to remove fucking items from the basket, help me",remove_product
+help me to check the availability of a fucking product in store,availability_in_store
+"I need to see the fucking deliverey date of my order, where do I do it?",delivery_time
+id like to see the availability of an item where could i do it,availability
+I'd like to track my fucking package help me,track_delivery
+I'd like to send fucking suggestions for making a product better where to do it,submit_product_idea
+"I'm looking for information about the fucking sales, how could I find it?",sales_period
+"I need to exchange a fucking item  I bought online in store, can I get some help?",exchange_product_in_store
+"I am looking for information about an fucking product in store, could I get some help?",return_product_in_store
+id like to send a product review where do i do it,submit_product_feedback
+"I'm looking for information about your store poening hours, could I get some help?",store_opening_hours
+i made an orfder and i got no bill would it be possible to download it,request_invoice
+"I want to cancel a fucking online order, where to do it?",cancel_order
+I have to submit a complaintabout a product,submit_product_feedback
+I'd like to send abck an order can i get some help,return_product
+wanna see where my delivery is where could i do it,track_delivery
+wanna see the status of my reimbursement help me,refund_status
+wanna use ur app i need assistance,use_app
+whee could I close my fucking account?,close_account
+wanna update my online roder before usend it could i get some help,change_order
+"I want to return a fucking product I bought online in store, help me",return_product_in_store
+"I would like to see your fuckig money back guarantee, will you help me?",refund_policy
+wannaknow about ur fucking payment options how do i find more information,payment_methods
+could I exchange an item in store ?,exchange_product_in_store
+my private data is inaccurate can ya update it,request_right_to_rectification
+where can I changw my fucking user account?,change_account
+"I'd like to exchange an item I bought online in store, I need assistance",exchange_product_in_store
+wanna add a fucking item to the basket could i get some help,add_product
+wanna modify my personal data i need assistance,request_right_to_rectification
+"I would like to submit a fucking suggestion for improving a product, I need assistance",submit_product_idea
+"I want to check the fuckikng delivery time of my order, how to do it?",delivery_time
+"I do not understand you, could I speak with an agent?",human_agent
+"I would like to edit my user accoujnt, how can I do it?",change_account
+where could I find information about the fucking delivery time?,delivery_time
+i got to send back a prpduct how to do it,return_product
+i purchased a fucking item but i chose a wrong size i got to update my fucking order,change_order
+"I want to open a user account, how could I do it?",open_account
+can you hepl me returning orders online?,return_product_online
+"I do not want my fucking  user account, could you help me cancel it?",close_account
+wanna send back an item what could i do,return_product
+id like to search for fucking stores near me can i get some help,store_location
+i have to cancel my fucking user cacount how can i do it,close_account
+"the mbile app doesn't work, help me reporting the fucking issue",technical_issue
+"I got to speak with fucking customer service, where can I do it?",customer_service
+cancel an iteem,cancel_order
+"I'd like to know about  the fucking status of my refund, where do I find more information?",refund_status
+how can I submit fucking suggestions?,submit_product_idea
+"I have to return a product I purchased online in store, help me",return_product_in_store
+"I need to remove a product from the cart , could you help me?",remove_product
+my debit card didnt work i want assistance notifying of fucking payment issues,payment_issue
+how could i return a fucking item if i bought it online,return_policy
+i need information about the fucking clearance sales how can i get it,sales_period
+i bought a fucking product but i chose a wrong size would it be possible to modify my fucking order,change_order
+could uhelp me to complete my fucking personal information,request_right_to_rectification
+I  need assistance making fucking transfers,pay
+i do not need my profile i need help cancelling it,close_account
+"I have to update my fucking personal information, help me",request_right_to_rectification
+wanna cancel  an item can i get some help,cancel_order
+i wnt help adding a fucking product to the cart,add_product
+"I'd like to report a delivery issue, where to do it?",delivery_issue
+"I have to add a fucking product to the basket , how could I do it?",add_product
+i made an order and i did ont get a bill,request_invoice
+"the payment failed, where do I notify of a fucking payment issue?",payment_issue
+"I would like to check your fucking refund process , how to do it?",refund_policy
+i bought a fucking  item but i wanna send back help me,return_product
+"I'm looking for informationabout your fucking return process, can I get some help?",return_policy
+I'd like to use ur mobile app i need assistance,use_app
+I'd like to talk to a fucking human agnet can i get some help,human_agent
+"I bought a fucking product but I chose a wrong color , I need to modify my online order",change_order
+I'd like to know about products can ufind some information,product_information
+"I want to know more about your fucking money back guarantee , give me some information",refund_policy
+"I'd like to useyour fucking mobile app, could I get some help?",use_app
+wanna send back a product i purchased can uhelp me,return_product
+"I bought a fucking product but I chosea wrong size, is it possible to modify my fucking order?",change_order
+i  got to cancel my profile how can i do it,close_account
+could you help me canceling a fuckingorder?,cancel_order
+"I want to cancel a fucking item, could I get some help?",cancel_order
+"I want to know more about the delivery date of my order , could you give me some information?",delivery_time
+"a productI purchased doesn't work, can I report a product issue?",product_issue
+need to exchange the fucking products,exchange_product
+id like to know about ur fucking payment methods can ugvie me some information,payment_methods
+i didnt receive my order i need assistance reporting delivery issues,delivery_issue
+how do i check where my delivery is,track_delivery
+"I want to know about the fucking cost of delivery, how could I get mopre information?",shipping_costs
+i dont understand ucould i speak with a human,human_agent
+"I am looking for infomration about the spring sales, help me",sales_period
+help  me return a product I bought online in store,return_product_in_store
+I'd like to know about ur fucking opening hours how can i find more information,store_opening_hours
+I'd  like information about ur refund policy where could i get it,refund_policy
+i need help to add an item to the cart,add_product
+i have to return fucking items online will ya help me,return_product_online
+"I'd like to know about the fucking delivery time of my order, where can I get more information?",delivery_time
+the product i ordered is incorrect i need help to erport it,wrong_item
+id like information about ur return process  how can i find it,return_policy
+"I would like to use your app , where could I do it?",use_app
+how can I see your fucking shop opening hours?,store_opening_hours
+io got to open a fucking user account how to do it,open_account
+id ilke to see the fucking purchase history could i get some help,order_history
+"I want to report a fucking delivery problem withmy package, how do I do it?",delivery_issue
+I want assistance sending an email to client servicde,customer_service
+"I have to check the delivery costs, how to do it?",shipping_costs
+wanna check the availability of products in stre i need help,availability_in_store
+see the fucking item availability,availability
+i got to modify my fucking profile can i get some help,change_account
+I have to chek your shopping hours,store_opening_hours
+can I return some fucking products online ?,return_policy
+"my order is fucking broken, help me to report it",damaged_delivery
+i  cant make transfers is it possible to report payment issues,payment_issue
+I got to return a poduct online,return_product_online
+i need help to check ur fucking reimbursement policy,refund_policy
+"I'd ilke to check your fucking opening hours, where to do it?",store_opening_hours
+"my credit card did not work, I want heop to report a payment issue",payment_issue
+could I return some fucking items without a receipt?,return_policy
+I need help sending back a fucking item,return_product
+id like information about the status of my replacement where could i finds it,track_order
+"I have to talk to a human, how d I do it?",human_agent
+"I got to return a fucking item I bought online in store, how can I do it?",return_product_in_store
+need to exchange the fucking orders i purchased help me,exchange_product
+"I got to pay with an debit card, where could I do it?",payment_methods
+could ya help me to check the delivery time,delivery_time
+someone hacked my account would it be possible to reset my fucking password,recover_password
+"I want to make a fucking payment, can you help me?",pay
+"I bought a product but I don't want it , how to cancel the order?",cancel_order
+"the product I got is wrong, I need assistance reporting it",wrong_item
+wanna use ur mobile app where do i do it,use_app
+"I would like to know about a product, how can I find more infornation?",product_information
+can uhlep me see ur payment methods,payment_methods
+where to  report items,damaged_delivery
+"one of the products I got is wrong, will you help me report it?",wrong_item
+i have not received my package i need help to report delivery issues,delivery_issue
+could ugive me information about ur money back guarantee,refund_policy
+"one of the products I ordered was fucking broken in shiping, I'd like to report it",damaged_delivery
+i got to delete my fucking user account were do i do it,close_account
+"I don't understadn you, how do I speak with fucking someone?",human_agent
+can you help me to send a fucking complaint abuot a product?,submit_product_feedback
+i need an accxount could ya help me to open it,open_account
+i want assistance submitting a fucking complaint about ur bran,submit_feedback
+i have to report fucking problems with a product i purchased how could i do it,product_issue
+my card didnt work where do i report a payment issue,payment_issue
+nede to check ur opening hours will uhelp me,store_opening_hours
+a fucking product in my delivery is incorrect will ya help me reoprting it,wrong_item
+"I would like to register, where do I do it?",open_account
+"my user has been stolen, could you help me reset my password?",recover_password
+"I want to recover my fucking password, where could I do it?",recover_password
+"I need to see where my package is, how to do it?",track_delivery
+"I'm looking for information about the spring sales, could you help me?",sales_period
+i have an error in my user account could uhel me change it,change_account
+help me to check your fucking payment methods,payment_methods
+i have to search for a tsore close to me where do i do it,store_location
+I'd like to use ur mobile app where can i do it,use_app
+i haveto request a refund how do i do it,request_refund
+"I need to find fucking storse, how could I do it?",store_location
+i did not receive all the items i purchased I'd like to report fuckiong missing items,missing_item
+id like to add a fukcing item to the basket where could i do it,add_product
+i have to update my order before ya send it helpme,change_order
+"I ordered an item and I did not receive a bill, could I get it?",request_invoice
+"I want to exchange a fucking product I bought, can you help me?",exchange_product
+"I have an idea to make your product beter, can you help me sending it?",submit_product_idea
+need to call client service how do i do it,customer_service
+I'd like to check the availability of a product online,availability_online
+need to see the fucking purchase history can ya help me,order_history
+i want assistance to see the fucking availability of an item,availability
+my personal data is inaccurate how could i modify it,request_right_to_rectification
+wanna return an item i bought online in store where could i do it,return_product_in_store
+will ya give me information about ur money back policy,refund_policy
+i got to check the availability of fucking products in store where to  do it,availability_in_store
+"I have to exchange the fucking itemsx I bought, can I get some help?",exchange_product
+id like to exchange a fucking item i purchased online in store i need assistance,exchange_product_in_store
+I'm looking for injformation about products where could i get it,product_information
+im looking for information about the status of my refund could i get some help,refund_status
+"I made a fucking order and I received no bill, help me to download it",request_invoice
+"one of the fucking products I received is incorrect, help me ot report it",wrong_item
+"I'd like to know more aboput the fucking delivery date of my purchase, will you give me some information?",delivery_time
+could uhelp me to see the edlivery time of my order,delivery_time
+i got to remove a item from the cart how to do it,remove_product
+I need assistamce to check your fucking shopping hours,store_opening_hours
+id like to know more about ur fucking reimbursement policy will ugiveme some information,refund_policy
+"I want a refund, could you help me request it?",request_refund
+i got to remove products  from the basket,remove_product
+"I have to submit ficking product complaints, I need assistance",submit_product_feedback
+where to request a refund,request_refund
+"I want to report fucking errors with a product I bought, how to do it?",product_issue
+id like to update my fucking account how to do ti,change_account
+"I want to send back an product I bought, how can I do it?",return_product
+the package i purchased was crushed i need sasistance to report it,damaged_delivery
+I'd like ot return a fucking order online how can i do it,return_product_online
+"I'd like to pay by debit acrd, how do I do it?",payment_methods
+I want help submitting a cmment about your brand,submit_feedback
+"I have to check the availability of a  fucking item online, could you help me?",availability_online
+can I add a product to the cart?,add_product
+i got to add products to the basket can uhelp me,add_product
+would it be possible to send complaints about a product,submit_product_feedback
+"I want to update my fucking account, I need help",change_account
+I would like to know aout your payment methods,payment_methods
+"I gpt to open a fucking account, where can I do it?",open_account
+id like to find stores nearby where can i do it,store_location
+i got to exchange some fucking producxts could ya help me,exchange_product
+my package isnt complete can  i report a fucking incomplete order,missing_item
+"I need to report a technical problem with the app, could I get some help?",technical_issue
+"I want to use your app, could I get some help?",use_app
+wanna search for a store nearby how could i do it,store_location
+"I need to check your shop opening hours, could I get some help?",store_opening_hours
+"I don't understand you , is it possible to speak with someone?",human_agent
+"I would like to use your fucking app, I need help",use_app
+"I purchased a fucking product but I do not want it , can I cancel the fucking order?",cancel_order
+i bought a product but i dont want it could i return ti,return_product
+i got to check the shipping costs help me,shipping_costs
+could i buy through ur wesbite,use_app
+wanna track my fucking package io need help,track_delivery
+my order was sent to the wrong address is it possible to report fucking deliveryproblems,delivery_issue
+"I would like to use your fucking app, could you help me?",use_app
+I'd liketo talk to an operator could i get some help,human_agent
+i cant get the website to work on my mobile phone i wanna report a fuckking problem,technical_issue
+i want a user account how could i open it,open_account
+"I want to speak with customer support, could I get some help?",customer_service
+"I want to exchange a product in store, were could I do it?",exchange_product_in_store
+would it be pssible to see the availability of fucking products in store,availability_in_store
+need to check the mailing cost where cold i do it,shipping_costs
+"I need to add an item to the basket, how to do i?",add_product
+"the website does not work on my cell phone, help me reporting a fucking issue",technical_issue
+wanna exchange some fucking items  i bought how do i do it,exchange_product
+wanma see the delivery time of my purchase where do i do it,delivery_time
+i got to createw a fucking account how to do it,open_account
+would it be possible to cancel an order,cancel_order
+i have a problem in my user account ohw do i edit it,change_account
+need to cancel an online order can uhelp me,cancel_order
+"I am looking for information about the sales, where can I find it?",sales_period
+where could I see the availability of items online?,availability_online
+"I have to return fucking items online, how to do it?",return_product_online
+i dont want my profile help me cancel it,close_account
+I'd like to cancel an order how do i do it,cancel_order
+can ya tell me more about the fucking status of my redimbursement,refund_status
+i purchased a ufcking product but i dont want it could i cancel the fucking order,cancel_order
+can you help me submitting a review?,submit_product_feedback
+where can i request a fucking reimbursement,request_refund
+need to return a fucking product i bought online in store could uhelp me,return_product_in_store
+wanna call customer service i need assistance,customer_service
+"I'd like to add fucking products to  the cart, how to do it?",add_product
+i hae a fucking comment about ur brand help me submitting it,submit_feedback
+"I made an order and I didn't get a bill, will you help me requestijg it?",request_invoice
+"I have to see the fucking status of my refund, where do I do it?",refund_status
+i got to check the fucking sttaus of my refund how could i do it,refund_status
+"I'dlike to submit a fucking idea for a product, can you help me?",submit_product_idea
+"I need to confirm the availability of a item online, where could I do it?",availability_online
+I want assistance to exchangesome products I purchased,exchange_product
+"I have defects in a product I bought, could you report them?",product_issue
+would it be possible to make trnsfers,pay
+hlp me submit product comments,submit_product_feedback
+I want to see the availability of a item,availability
+a product i ordered doesnt work as specified i need help reporting a product issue,product_issue
+how can i submit fucking feedback,submit_feedback
+di like to know about a product can ya give me some information,product_information
+could you help me confirming the availability of a fucking item onliine?,availability_online
+how to remove a fucking item from the cart?,remove_product
+"I would like to speak with client service, I need assistance",customer_service
+i have to rectify my personal information help me,request_right_to_rectification
+"my package is not complete, I would like to report a fucking missing item",missing_item
+i want a fucking account will ya ehlp me opening it,open_account
+"II purchased a product but I don't want it, is it possible to cancel the fucking order?",cancel_order
+can I return a product at the shop ?,return_policy
+"I want a fucking reimbursement, how could I request it ?",request_refund
+"I got to see the fucking delivery date of my purchsse, how could I do it?",delivery_time
+"I have to track my fucking delivery, can yo help me?",track_delivery
+could ugive me information about a fuckimg product,product_information
+i purchased a fucking product but i chose a wrong color how do i update  my fucking online order,change_order
+"someone stole my password, could I reset it?",recover_password
+"I can't make payments, I need to report a fucking payment problem",payment_issue
+"I do not understand you, I wat to speak with a fucking human agent",human_agent
+exchange a product i purchased online in store,exchange_product_in_store
+would it be possible to xechange the items i bought,exchange_product
+"I didn't receive my shipment, I want help to report delivery issues",delivery_issue
+"I'd like to know about your fucking return policy, will you give me some information?",return_policy
+i got to confirm the availability of an item in store will ya help me,availability_in_store
+"I purchased a fucking product and I didn't receive a bill, how do I get it?",request_invoice
+i made an fucking purchase and i did not get an invoice could i get it,request_invoice
+"I want to confirm the availability of items in store , how can I do it?",availability_in_store
+wanna report an inxomplete delivery how do i do it,missing_item
+i have to check the shipping cost can uhelp me,shipping_costs
+"I need to exchange a fucking item in store, how could I di it?",exchange_product_in_store
+"I want to speak with a  fucking person, help me",human_agent
+id like to cancel an online order how do i do it,cancel_order
+the payment failed i need assistance to report fucking payment problems,payment_issue
+id like to download a fucking invoice how to do it,request_invoice
+i have to send a fucking complaint about  ur brand will uhelp me,submit_feedback
+i need help removbing a product from the cart,remove_product
+"the app doesn't work, report the error",technical_issue
+i want assistance requesting a fucking reimbursmeent,request_refund
+"I want to return a fucking item I purchased online in store, how can I do it?",return_product_in_store
+a delivered itemis fucking crushed will ya help me reporting it,damaged_delivery
+i did not receive my order i wanna report fucking delivery problems,delivery_issue
+i got to submit fucking comments about products i need asisstance,submit_product_feedback
+I want assistance speaking with fucking client service,customer_service
+"I need to request a fucking reimbursement, where could I od it?",request_refund
+i bought an item but i chose an wrong color I'd like to update my fucking order,change_order
+"I'm looking for information about the delivery costs, how could I find it ?",shipping_costs
+"I am looking for information about fucking products, I need help",product_information
+"I want to speak with someone, where do I do it?",human_agent
+"I purchased an item, but I want to send back, help me",return_product
+"I would like to pay with a credit card , could I get some help?",payment_methods
+how could I remove fucking itwms from the cart?,remove_product
+i need assistance tp submit a fucking product idea,submit_product_idea
+"I would like to know about the mailing cost, were do I get more information?",shipping_costs
+i do not want my profile cojld ya help me to close it,close_account
+"I would like to know more about fucking products, give me some information",product_information
+wanna remove products from thebasket,remove_product
+need to check the fucking availability of a item where to do it,availability
+"a product I purchased doesn't work as specified, could you help me repofting a product problem?",product_issue
+"I'd like to know more about your fucking payment methods, will  you give me some information?",payment_methods
+"I would like to exchange some fucking products I purchased , can I get some help?",exchange_product
+i dont remember my fucking password can ya help me recovering it,recover_password
+wanna know about the status of my refund could ya find  some information,refund_status
+need to see ur fucking shop opening hours how could i do it,store_opening_hours
+i got to see the  availability of products in store i need help,availability_in_store
+"a product I purchased doesn't work as specified, I have to report a product error",product_issue
+"I want to search for stores near me, help me",store_location
+"I need to contact customer support,how could I do it?",customer_service
+the apyment failed but i was charged anyway i need help reporting a payment issue,payment_issue
+i cant get the app to work on my computer i need to report an issue,technical_issue
+I'm looking for information about ur return policy where can i find it,return_policy
+"I have to submit fucking feedback about yoru brand, where could I do it?",submit_feedback
+can I return some items in shop?,return_policy
+help me seeing your return proxess,return_policy
+id like to return an item i need hdlp,return_product
+"I'd like to update my fucking order before you send it, where could I do it?",change_order
+"I bought an item but I chose an wrong size, I'd like to update my online order",change_order
+"I'd like to pay by card, where to do it?",payment_methods
+i need information about the winter sales where could i get it,sales_period
+how do i check ur fuckimg opening hours,store_opening_hours
+my delivery was late where to report delivery problems,delivery_issue
+"I can't make payments, can I notify of an fucking payment problem?",payment_issue
+i have to speak with  a person i need help,human_agent
+wanna see the fucking order history how do i do it,order_history
+wanna track my reimbursement,refund_status
+my personal data is nicorrect help me rectify it,request_right_to_rectification
+i have to find a sdtore nearby where to do it,store_location
+can ya help me returning orders online,return_product_online
+id like to see the fucking delivery date of my purchase how can i do it,delivery_time
+"I have to add a fucking product to the basket, how to do it?",add_product
+someone hacked my profile can ya help me recoverign my password,recover_password
+wanna see the order history where could i do it,order_history
+could I track my replaceent product?,track_order
+I need help to speak with a fucking operator,human_agent
+id like to return an product i bought online in store can i get some help,return_product_in_store
+i ordered a product and i di not receive a bill could i get it,request_invoice
+"I'm looking for information about your payment methods, could I get some help?",payment_methods
+need to check ur fucking store opening hours how do i do it,store_opening_hours
+I'd like to submit feedback about ur brand where to do it,submit_feedback
+"I need to confirm the availability of fucking products online, will you help me?",availability_online
+i want assistance to check ur opening hours,store_opening_hours
+I would like to change my fucking user account,change_account
+wolud it be possible to return some fucking items at the shop,return_policy
+i got to return orders online i need assistance,return_product_online
+wanna check the availability of fucking items online i need help,availability_online
+"I'd like to update my order before you send it, colud you help me?",change_order
+where can i check ur return procses,return_policy
+"I need information about the clearance sales, how can I find it?",sales_period
+"I did not receive my  order, can you help me to report a fucking delivery issue?",delivery_issue
+how to buy through ur mobiel app,use_app
+"I would like to report a fucking wrong product, where could I do it ?",wrong_item
+"I did not receive everything I purchased, help me to report a missing item",missing_item
+"I want to confirm the availability of a fucking product noline, can I get some help?",availability_online
+help me paying with a deibt card,payment_methods
+the app doesnt work on my mac how do i report the  fucking error,technical_issue
+"I cannot get the website to work on my tablet, report a fucking error",technical_issue
+"I have to open a user account, I need help",open_account
+"I got to mae a transfer, where do I do it?",pay
+"I want to pay with a credit card, where do I do it?",payment_methods
+wanna report a problem with a product i ordered where can i do it,product_issue
+i need my order hostory where do i see it,order_history
+how can i get information about the fucking nearest stores,store_location
+I'd like to know about the fucking costs of shipping where do i find more information,shipping_costs
+i got to see the availability of products online where can i do it,availability_online
+"I got to return products online , I need help",return_product_online
+id like to know about ur fucking reimbursement policy give me some  information,refund_policy
+help me seeing the fucking item availability,availability
+"I would like information about the fucking winter sales, how can I get it?",sales_period
+can i check the fucking status of my replacement prfoduct,track_order
+I need to submit an idea,submit_product_idea
+make tyransfers,pay
+could i speak with fucking soebody,human_agent
+need to find a fucking store in my area where can i do itt,store_location
+I need help speaking with fucking customer servcie,customer_service
+I need help to complete my fucking private information,request_right_to_rectification
+i needd assistance to remove a fucking product from the basket,remove_product
+"I ordered an item and I did not get an invoice, help me ot request it",request_invoice
+could ugive me information about the fucking delivery time of my order,delivery_time
+"I have to remove an item from the cart, could you help me?",remove_product
+i ordered an item and i did noty get an invoice help me download it,request_invoice
+i have not received my shipment where can i report a fucking delivery problem,delivery_issue
+wanna know about the delivery time could ya give me som information,delivery_time
+id like to speak with customer support how do i do it,customer_service
+"I'd like to cancel a order, where do I do it?",cancel_order
+awnna make a transfer where can i do it,pay
+need  to add fucking products to the basket can i get some help,add_product
+i haveto track my replacement could uhelp me,track_order
+I'm looking for information about the fucking sals,sales_period
+im trying to find information about the fucking sales,sales_period
+"some products I got are incorrect, report them",wrong_item
+"I'd like to know about the fucking costs of shipping, where can I find more information?",shipping_costs
+"I would like information about your payment methods, where can  I find it?",payment_methods
+"I want to send an fucking product review, how could I do it?",submit_product_feedback
+i do not want my fucking user account i need help to close it,close_account
+"I have to request a fucking refund, can I get some help ?",request_refund
+i have to see the fucking status of my replacement item help me,track_order
+"my package is fucking crushed, I'd like to report it",damaged_delivery
+need to make a fucking transfer where could i do it,pay
+"I need to return a fucking item online, help me",return_product_online
+i got to see the fucking delivery costs where do i do it,shipping_costs
+"I'd like to close my fucking user account, can I get some help?",close_account
+"my delivery was late, help meto report delivery issues",delivery_issue
+i got to check ur opening hours,store_opening_hours
+"I can't get the app to work on my cell phone, I got to report a fucking error",technical_issue
+is there a email to contact fucking customer service,customer_service
+"one ofd the fucking products is wrong, help me report it",wrong_item
+need to report an issue in a product i purchased where could i do it,product_issue
+"I'd like to register, where could I d it?",open_account
+need to send a fucking product back where can i do it,return_product
+i have fucking feedback i wanna send it,submit_feedback
+"I have an idea to make your product better, would it be possible to send it?",submit_product_idea
+"one of the items I bought was broken in shipping, could you help me reporting it?",damaged_delivery
+wanna report defects in a product i ordered i need assistance,product_issue
+neee to look for something i bought i need help seeing my fucking purchase history,order_history
+"I'd like to use your fucking mobile app, can you hellp me?",use_app
+wanna make trandfers,pay
+"I'd like to exchange some produts, help me",exchange_product
+i have fucking feedback about ur company can ya send it,submit_feedback
+"I want to remov a product from the basket, where to do it?",remove_product
+"I don't understand you, can you help me to talk to fucking somebody ?",human_agent
+where could i get information about a fucking item in store,return_product_in_store
+"I need to look for something I bought, where could I see my purchase history?",order_history
+need to submit suggestions formaking a product better can ya help me,submit_product_idea
+"I want to return an order online, can I get some help ?",return_product_online
+wanna exchangea fucking product in store how can i do it,exchange_product_in_store
+wanna add a product to the basket help me,add_product
+can utell me more baout the fucking delivery date,delivery_time
+wanna report fucking errors in a product i purchased could ya help me,product_issue
+"I have an fucking suggestion to make your product better, submit it",submit_product_idea
+how  do i see the availability of an item online,availability_online
+id like to submit fucknig ideas for improving a product help me,submit_product_idea
+were could i get information about the fucking status of my reimbursement,refund_status
+"I would like to create a user account, could you help m?",open_account
+"I need to check your fucking payment methods , how do I do it?",payment_methods
+i have to update my personal data will uhelpme,request_right_to_rectification
+where to send back an order,return_product
+"I have a fucking suggestion to make your product better, could I send it?",submit_product_idea
+"I would like to change my profile, could you help me?",change_account
+i need assistance to add products to the cart,add_product
+"I ordered aa fucking item and I did not get a bill, help me to download it",request_invoice
+"I'd like to open a user account , I need assistance",open_account
+"I don't want my fucking user account, can you help me to delete it?",close_account
+can uhelp me exchanging an item i bought online ni store,exchange_product_in_store
+id like to know more about a fucknig product find some information,product_information
+i got to speak with an  agent can uhelp me,human_agent
+"I want to report a technical problem with the mobile app, can I get some help ?",technical_issue
+could you hepl me send a product back?,return_product
+i need help reporting a fucking problem in a product,product_issue
+"I got to exchange a fucking product in store, how could I do it?",exchange_product_in_store
+need to confirm  the availability of a fucking item online help me,availability_online
+"I want to exhcange an item in store, could you help me?",exchange_product_in_store
+the website does not work on my phone i want assistance reporting an issue,technical_issue
+te app doesnt work on my cell phone could uhelp me reporting an error,technical_issue
+"I'd like to remove a fucking product from the cart, I need assistance",remove_product
+can i cance a fucking order if it hasnt been shipped,cancel_order
+help me exchanging an product i bought online in store,exchange_product_in_store
+i requested a replacement item but i have not received it i need help to track the fucking status of my replacement item,track_order
+"I got to talk to fucking client service, I need assistance",customer_service
+need to send ideas for a product where do i do it,submit_product_idea
+"a product I received doesn't work as specified, where to report a fucking product problem?",product_issue
+"the mobile app doesn't work on my computer , can you help me reporting the fucking issue?",technical_issue
+I'd like to se ur return policy how do i do it,return_policy
+"I want to check your shopping hours, can I get some help?",store_opening_hours
+id like to check the availability of an item can yz help me,availability
+"I want mypurchase history, could you see it?",order_history
+help me seeing the fucking shipping  costs,shipping_costs
+"I have to exchange some items I bought, can I get some help?",exchange_product
+i got to see the availability of an item where could i do it,availability
+"I would like to see your fucking store opening hours , I need assistance",store_opening_hours
+does your shop open on Sundays ?,store_opening_hours
+"I would like to find stores near me, how do I do it?",store_location
+"I got to see the fucking item availability, I need help",availability
+i got ot see ur fucking payment options help me,payment_methods
+"I bought a fucking item but I chose a wrong color, I want to modify my fucking online order",change_order
+"I want to get a reimbursement, will you help me?",request_refund
+i requested an exchange but i havent received it i need assistance tracking the status of my replacemen,track_order
+wannaknow about ur shop opening hours how do i get more information,store_opening_hours
+wanna check ur refund process could ya hepl me,refund_policy
+wanna know about the fucking closest stores culd ya give me some information,store_location
+wanna report an error in a product i obught where could i do it,product_issue
+"I ned to exchange a fucking product I purchased, can you help me?",exchange_product
+id like information about the next sales were could i find it,sales_period
+wanna know more about ur ufcking return process find some information,return_policy
+i purchased an itembut i chose a wrong size I'd like to modify my online order,change_order
+wanna check where my order is how do i do it,track_order
+id like to speak with fucking customer service where do i do it,customer_service
+"I got to check the availability of fucking products in store, where could I do it?",availability_in_store
+could I return a fucking product I bought online in store?,return_product_in_store
+i have to remove a product from the basket can uhelp me,remove_product
+"I want to create a fucking user account, how can I do it?",open_account
+"I got to submit ideas for making a product better, will you help me?",submit_product_idea
+i got to remove a product from the basket i need assistanec,remove_product
+fucking products in my shipment afe wrong help me reporting them,wrong_item
+i get an error in the app on my tablet how can ireport it,technical_issue
+can you help me checking the availability of products inm store?,availability_in_store
+"I have to report a fucking delivery issue with my package, where can I do it?",delivery_issue
+my card was declined i need assistance notifying of a payment problem,payment_issue
+"my personal information is incorrect, I need help modifying it",request_right_to_rectification
+"I would like to check the fucking shipping costs, I need help",shipping_costs
+"I got to speak with client service, could oyu help me?",customer_service
+"I want to send back a fucking product, help me",return_product
+id like to track my fucking shipemnt where could i do it,track_delivery
+"I need information about the next sales, where could I get it ?",sales_period
+"I have to modify my private information , can you help me?",request_right_to_rectification
+id like to know about a fucking product wheere can i find more information,product_information
+i got to talk to client service can i get some help,customer_service
+the website doesnt work on my mac can uhelp me report a fucking issue,technical_issue
+id like to ad items to the basket how to do it,add_product
+I'd like to send back a fucking item hepp me,return_product
+i made a purchase and i didnt receive an invoice i need help to request it,request_invoice
+id like to know about stores nearby can ya find some information,store_location
+"I would like to confirm the availability of fucking products in store, will you help me?",availability_in_store
+i do not want my fucking acocunt could ya help me canceling it,close_account
+"I want to see your store opening hours, how could I do it?",store_opening_hours
+"I'd like to return a fucking item, can you help me?",return_product
+a product isnt delivered could uhelp me to report it,missing_item
+how could i report a fucking defective product i received,product_issue
+I need help searchnig for the nearest store,store_location
+I want assistance to requset a fucking bill,request_invoice
+"I need a fucking user account, where do I create it?",open_account
+"I would like to know about the fucking delivery date, can you finx some information?",delivery_time
+i have a problem in my fukcing user account will uhelp me editing it,change_account
+"I want to exchange the fucking items I bught, where do I do it?",exchange_product
+"I got to talk to an agent, how to do it ?",human_agent
+need to add fucking items to the basket help me,add_product
+"a product I received doesn't work properly, how can I report a fucking product error?",product_issue
+i didnt receive everything i bought couod ya help me to report a fucking incomplete delivery,missing_item
+i want assistance to exchange a fucking product i boought online in store,exchange_product_in_store
+need to use ur mobile app were can i do it,use_app
+wanna know more abuot the cost of shipping,shipping_costs
+"my package has been lost, can I report a fucking delivery problem?",delivery_issue
+help me talk  to a human agent,human_agent
+i havent recewived my order help me report delivery issues,delivery_issue
+i have to remove a fucking item from the cart i need heop,remove_product
+I want to request an reimbursement,request_refund
+a shipped item is fucking broken i need help reprting it,damaged_delivery
+"I'd like to exchange some fuckinmg products, how to do it?",exchange_product
+"I'd like to check  out, could you help me?",pay
+"I'd like to find fucking stores, how could I do it?",store_location
+"I want to see the fucking item availability, how can I do it?",availability
+"I want to send an order abck, I need help",return_product
+"I have to submit a suggestion,  where could I do it?",submit_product_idea
+I got to update my personal data,request_right_to_rectification
+"a product is fucking crushed, willo you help me report it?",damaged_delivery
+i got to create a user accoint where could i do it,open_account
+"I'd like to know about an fucking product, where do I get more information?",product_information
+"I'm lookong for a fucking refund, can you help me finding it?",request_refund
+"I would like to exchange a item I purchased, can I get some help?",exchange_product
+"I'm looking for information about the fucking next sales, where can I get it?",sales_period
+"I got to find my order, how can I do it?",track_order
+I'd like to report a fucking payment probem i need help,payment_issue
+I'd like to ad fucking products to the basket could uhelp me,add_product
+"I made a purchase and I got no invoice, can you download it?",request_invoice
+"I am looking for information about th fucking mailing costs, where could I get it?",shipping_costs
+"Igot to check your fucking shopping hours, can I get some help?",store_opening_hours
+"my debit card didn't work , I need assistance notifying of a payment issue",payment_issue
+i need assistance checking the availability of an item,availability
+i dont understand ui need help to speak with a human,human_agent
+wanna see ur fucking opening hours were could i do it,store_opening_hours
+i do not need my fucking accout i need help to close it,close_account
+"I'd like to know more about your fucking shopping hours, will you find some information?",store_opening_hours
+"I would like to know more about the fucking mailing costs, could you find some information?",shipping_costs
+what is ur fucking return  policy,return_policy
+need to edit my profile can i get some help,change_account
+"I sent some products back but I haven't received the replacement, how to track the status of my exchange?",track_order
+I'd like ot cancel my account,close_account
+i got to reset my fucking passwrd i need help,recover_password
+the item i received si wrong how do i report it,wrong_item
+i do not reemmber my fucking password help me recover it,recover_password
+"one of the fucking products from my delivery is missing, help me to report it",missing_item
+where can I submit a complaint about yor brand?,submit_feedback
+where can i find information about the fucking cost of shipping,shipping_costs
+i dont understand uhow could i talk to someone,human_agent
+"I want to submit a comment about your brand, help me",submit_feedback
+someone stole my fucking password could i reset iut,recover_password
+i want a fucking reimbursement I'd like to get it,request_refund
+"I want to send a product back I bought, what could I do?",return_product
+i got to remove a fucking product from the cart help me,remove_product
+i need assistance returning fucking orders onliner,return_product_online
+"I would like to update my fucking account, were can I do it?",change_account
+wanna know more about ur fucking refund policy,refund_policy
+"I have to exchange an item I purchased online in store, willyou help me?",exchange_product_in_store
+i did not receive all the products i purchased where could i report a fucking icomplete package,missing_item
+the fucking products i received were broken i need help to report them,damaged_delivery
+"I need to see where my fucking delivery is, how to do it?",track_delivery
+how do I check your  fucking shop opening hours?,store_opening_hours
+im missing some fucking products i ordered i need help reporting them,missing_item
+"I made a purchaes and I got no invoice, could you help me to request it?",request_invoice
+could you help me to send fucking complaints about a product ?,submit_product_feedback
+"I'd like to rectify my fucking persnoal information, where to do it?",request_right_to_rectification
+"I have to check the fucking item availability, could I get some help?",availability
+i didnt get a payment confirmation can uhelp me reporting a fucking payment issue,payment_issue
+need to checkwhere my package is will ya help me,track_delivery
+"I'd like to make transfers, how to do it?",pay

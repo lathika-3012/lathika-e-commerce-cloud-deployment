@@ -1,0 +1,41 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.cache/
+# trained artifacts (large)
+models/benchmark_models/*
+!models/benchmark_models/.gitkeep
+fine_tuned_intent_model/*
+!fine_tuned_intent_model/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+results/telemetry.jsonl
+results/*.prev.*
+*.tmp
+
+# Local databases and secrets
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+
+# Virtual environments and caches
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+.cache/
+
+# Large model artifacts and checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.joblib
+checkpoint-*/
