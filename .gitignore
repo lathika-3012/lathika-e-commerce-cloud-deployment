@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 venv/
 .venv/
 __pycache__/
@@ -31,11 +32,66 @@ __pycache__/
 .cache/
 
 # Large model artifacts and checkpoints
+=======
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+.env.*
+
+# PyTorch / Hugging Face training checkpoints
+**/checkpoint-*/
+**/optimizer.pt
+**/scheduler.pt
+**/trainer_state.json
+
+# Large model files
+>>>>>>> origin/master
 *.safetensors
 *.bin
 *.pt
 *.pth
+<<<<<<< HEAD
 *.onnx
 *.pkl
 *.joblib
 checkpoint-*/
+=======
+
+# Cache
+.cache/
+huggingface/
+huggingface_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated cache/results that are not needed
+*.log
+
+# Local database
+data/customer.db
+
+# Trained ML model files
+models/purchase_model/*.pkl
+
+# Local/training datasets
+data/processed/*.csv
+data/splits/*.csv
+
+# Generated results
+results/*.csv
+results/*.json
+>>>>>>> origin/master
